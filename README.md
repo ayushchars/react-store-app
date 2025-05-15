@@ -54,7 +54,7 @@ cd react-store-app
 npm install
 
 3. Start the development server
-npm install
+npm run dev
 
 4. After starting, the app will be available at:
 http://localhost:5173
