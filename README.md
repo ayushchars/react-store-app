@@ -47,7 +47,7 @@ Follow these steps to set up and run the project locally:
 
 ```bash
 
-git clone https://github.com/your-username/react-store-app.git
+git clone https://github.com/ayushchars/react-store-app.git
 cd react-store-app
 
 2. Install dependencies
